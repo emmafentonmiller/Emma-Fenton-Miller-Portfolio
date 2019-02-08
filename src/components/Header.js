@@ -49,7 +49,7 @@ const SocialMedia = styled.div`
 
   a {
     font-size: 1.5rem;
-    line-height: 40px;
+    line-height: 100px;
   }
 `;
 
