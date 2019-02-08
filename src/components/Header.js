@@ -48,7 +48,7 @@ const SocialMedia = styled.div`
   margin-top: 2rem;
 
   a {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     line-height: 20px;
   }
 `;
