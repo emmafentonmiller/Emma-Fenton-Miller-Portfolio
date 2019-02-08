@@ -74,7 +74,7 @@ export const pageQuery = graphql`
           frontmatter {
             cover {
               childImageSharp {
-                fluid(maxWidth: 850, quality: 90, traceSVG: { color: "#328bff" }) {
+                fluid(maxWidth: 850, quality: 90, traceSVG: { color: "#ffffff" }) {
                   ...GatsbyImageSharpFluid_withWebp_tracedSVG
                 }
               }
