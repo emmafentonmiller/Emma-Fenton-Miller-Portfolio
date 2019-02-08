@@ -67,7 +67,7 @@ const Header = ({ name, location, socialMedia }) => (
       <SocialMedia>
         {socialMedia.map(social => (
           <a key={social.name} href={social.url} rel="noopener noreferrer" target="_blank">
-            <FaInstagram size={42} />
+            <FaInstagram size={35} />
           </a>
         ))}
         
