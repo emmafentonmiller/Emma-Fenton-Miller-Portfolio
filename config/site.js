@@ -5,7 +5,7 @@ module.exports = {
   siteTitleAlt: 'Emma Fenton-Miller', // Alternative Site title for SEO
   siteUrl: 'https://www.emmafentonmiller.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteLogo: 'static/logos/logo-1024.png', // Used for SEO and manifest
+  siteLogo: 'static/logos/icon.jpg', // Used for SEO and manifest
   siteDescription: 'Emma Fenton-Miller Portfolio',
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
