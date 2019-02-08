@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'react-emotion';
 import PropTypes from 'prop-types';
 import Overdrive from 'react-overdrive';
-// import { FaInstagram } from 'react-icons/fa';
+import { FaInstagram } from 'react-icons/fa';
 
 const Wrapper = styled.div`
     background: url("${props => props.theme.bgPattern}") #fff;
