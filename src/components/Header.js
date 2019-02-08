@@ -49,8 +49,12 @@ const SocialMedia = styled.div`
 
   a {
     font-size: 1.5rem;
-    line-height: 100px;
+    line-height: 50px;
   }
+  @media (max-width: ${props => props.theme.maxWidths.general}) {
+    padding: 0 1rem;
+  }
+
 `;
 
 const Header = ({ name, location, socialMedia }) => (
