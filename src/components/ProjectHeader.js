@@ -73,7 +73,7 @@ const Details = styled.div`
 const Text = styled.div`
   max-width: 750px;
   margin: 4rem auto 2rem auto;
-  color: white;
+  color: black;
 `;
 
 const ProjectHeader = ({ name, title, date, areas, text }) => (
