@@ -48,6 +48,8 @@ const SocialMedia = styled.div`
   margin-top: 2rem;
 
   a {
+    font-size: 1.25rem;
+    line-height: 20px;
     margin: 0 0.3rem;
   }
 `;
