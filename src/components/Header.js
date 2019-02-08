@@ -50,7 +50,7 @@ const SocialMedia = styled.div`
   a {
     font-size: 1.25rem;
     line-height: 20px;
-    margin: 0 0.3rem;
+//  margin: 0 0.3rem;
   }
 `;
 
