@@ -8,7 +8,7 @@ module.exports = {
   colors: {
     bg: '#ffffff',
     color: 'black',
-    secondary: '#b6b6b6',
+    secondary: '#808080',
     link: '#000000',
     linkHover: '#79a8ff',
   },
