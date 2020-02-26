@@ -1,5 +1,5 @@
 ---
-cover: "./AttachedI.jpg"
+cover: "./attachedi.jpg"
 date: "2017-12-01"
 title: "Attached"
 areas:
