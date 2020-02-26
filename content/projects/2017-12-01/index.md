@@ -1,8 +1,8 @@
 ---
 cover: "./amy-luo.jpg"
-date: "2017-12-01"
-title: "Amy Luo"
+date: "2020"
+title: "Attached"
 areas:
-    - Photography
+    - Ink on paper
     - Art
 ---
