@@ -1,5 +1,5 @@
 ---
-cover: "Crow.jpg"
+cover: "./Crow.jpg"
 date: "2019-12-01"
 title: "Intimate"
 areas:
