@@ -9,7 +9,7 @@ const Content = styled.p`
 
 const Footer = () => (
   <Content>
-    Contact: <a href = "mailto:emmafentonmiller@gmail.com">emmafentonmiller@gmail.com</a>, &copy; 2019
+    Contact: <a href = "mailto:emmafentonmiller@gmail.com">emmafentonmiller@gmail.com</a>, &copy; 2020
   </Content>
 );
 
