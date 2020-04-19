@@ -1,5 +1,5 @@
 ---
-cover: "./kari-shea.jpg"
+cover: "./attached-i.jpg"
 date: "2017-12-01"
 title: "Attached"
 areas:
