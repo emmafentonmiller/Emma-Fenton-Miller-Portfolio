@@ -1,6 +1,6 @@
 ---
 cover: "./attached-i.jpg"
-date: "2017-12-01"
+date: "2020-01-01"
 title: "Attached"
 areas:
     - Ink on paper
