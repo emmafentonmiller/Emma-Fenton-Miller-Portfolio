@@ -84,7 +84,7 @@ export const pageQuery = graphql`
       edges {
         node {
           childImageSharp {
-            fluid(maxWidth: 1000, quality: 90, traceSVG: { color: "#ffffff" }) {
+            fluid(maxWidth: 1600, quality: 90, traceSVG: { color: "#ffffff" }) {
               ...GatsbyImageSharpFluid_withWebp_tracedSVG
             }
           }
@@ -97,7 +97,7 @@ export const pageQuery = graphql`
       frontmatter {
         cover {
           childImageSharp {
-            fluid(maxWidth: 1000, quality: 90, traceSVG: { color: "#ffffff" }) {
+            fluid(maxWidth: 1600, quality: 90, traceSVG: { color: "#ffffff" }) {
               ...GatsbyImageSharpFluid_withWebp_tracedSVG
             }
             resize(width: 800) {
