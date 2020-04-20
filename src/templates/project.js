@@ -45,8 +45,7 @@ const Project = ({ pageContext: { slug, prev, next }, data: { project: postNode,
             <Img
               key={image.node.childImageSharp.fluid.src}
               fluid={image.node.childImageSharp.fluid}
-              style={{ margin: '2.75rem 0', maxHeight: "100%" }}
-              imgStyle={{ objectFit: "contain" }}
+              style={{ margin: '2.75rem 0' }}
             />
           ))}
         </InnerWrapper>
