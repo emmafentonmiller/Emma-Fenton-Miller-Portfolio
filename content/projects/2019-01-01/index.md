@@ -1,7 +1,7 @@
 ---
 cover: "./Heart.jpg"
 date: "2019-01-01"
-title: "Jewlery 2019"
+title: "Enamel Jewlery"
 areas:
     - Enamel on copper
 ---
