@@ -1,5 +1,5 @@
 ---
-cover: "./Staysoft1.jpg"
+cover: "./Staysoft2.jpg"
 date: "2019-07-01"
 title: "Stay Soft"
 areas:
