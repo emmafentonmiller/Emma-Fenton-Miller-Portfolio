@@ -26,7 +26,7 @@
     "gatsby-remark-external-links": "^0.0.4",
     "gatsby-remark-images": "^2.0.5",
     "gatsby-source-filesystem": "^2.0.7",
-    "gatsby-transformer-remark": "^2.1.11",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.1.7",
     "lodash": "^4.17.11",
     "prop-types": "^15.6.2",
